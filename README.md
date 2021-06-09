@@ -19,6 +19,11 @@ You can see the bot in action by messaging [@inlinegamesbot](https://telegram.me
 
 Translations support is implemented but it is not used mainly because same translated text would be displayed to both players, can be problematic in 'gaming' groups - people setting language that other player can't understand!
 
+## Deploy
+deploy to heroku using the button below:
+
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FTheWeaver786%2Finlinegamesbot&template=https%3A%2F%2Fgithub.com%2FTheWeaver786%2Finlinegamesbot)
+
 ## Contributing
 
 See [CONTRIBUTING](CONTRIBUTING.md) for more information.
